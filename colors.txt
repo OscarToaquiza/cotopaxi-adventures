@@ -1,0 +1,6 @@
+negro
+#252B35
+celste
+#13B2D9
+verde
+#85D400
